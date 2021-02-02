@@ -1,6 +1,6 @@
 # ML-Projects
 Task Assigned on 02-02-2021
-## Intern at Sparks Foundation.
+## Intern at The Sparks Foundation.
 ### By Smriti Pradhan 
 This is the Tasks assigned by the Sparks Foundation .
 
